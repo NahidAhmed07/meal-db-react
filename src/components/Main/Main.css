@@ -1,0 +1,18 @@
+.foods-parrent{
+
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+
+.foods{
+  border-right: 1px solid rgb(26, 26, 25);
+  padding: 15px;
+  padding-top: 100px;
+}
+
+.cart{
+  padding: 10px;
+  padding-top:50px;
+  text-align: left;
+  position: relative;
+}
